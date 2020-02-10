@@ -1,4 +1,4 @@
-### application.bat - 2020 - Blanchard Allan ###
+### application.bat - 2020 - Blanchard Allan - Romain Guinais###
 version = "2"
 build_hour = "11H00"
 
